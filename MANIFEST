@@ -9,6 +9,7 @@ app.psgi
 cpanfile
 dist.ini
 examples/library.pl
+examples/rest.R
 examples/rest.pl
 examples/rest.py
 examples/service
