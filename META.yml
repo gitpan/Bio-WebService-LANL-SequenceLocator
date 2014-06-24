@@ -52,4 +52,4 @@ resources:
   bugtracker: https://github.com/MullinsLab/Bio-WebService-LANL-SequenceLocator/issues
   homepage: http://indra.mullins.microbiol.washington.edu/locate-sequence/
   repository: https://github.com/MullinsLab/Bio-WebService-LANL-SequenceLocator.git
-version: 20140619
+version: 20140624
